@@ -31,7 +31,6 @@ public class Answer {
 			return true;
 		}
 
-
 		result = find(num + 1, sum);
 		if (result) {
 			return result;
